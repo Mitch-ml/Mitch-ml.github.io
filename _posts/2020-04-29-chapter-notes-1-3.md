@@ -1,19 +1,9 @@
 ---
 title: "Chapter Notes 1-3"
-date: 2020-04-29 # Added
-tags: [bayesian, statistical rethinking, notes]
-header:
-  image: "/images/fort point.png"
-exerpt: "My chapter notes"
-output:
-  md_document:
-    variant: markdown_github
-mathjax: "true"
+category: posts
+date: 2020-04-29
+exerpt: "Chapter notes"
 comments: "true"
-# output:
-#  html_document:
-#   keep_md: true
-# mathjax: "true"
 ---
 
 This is a test 
