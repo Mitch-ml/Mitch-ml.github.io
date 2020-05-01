@@ -23,7 +23,7 @@ developers. I mainly use R, but have experience in Python and SQL.
 I have a bachelors degree in Mathematics from St. Lawrence University, where I did
 [my thesis][3] on the Erdos Faber Lovasz conjecture. After
 spending some time pursuing other interests,[^fnote2] I began working at a young
-startup where I got introduced to a range of topics in statistics and data analytics. Though, my primary focused on using survival analysis to help predict customer churn. For more details, check out [my portfolio](/portfolio/), or
+startup where I got introduced to a range of topics in statistics and data analytics. Though, my primary focus was on using survival analysis to help predict customer churn. For more details, check out [my portfolio](/portfolio/), or
 take a look at [my resume][4]. 
 
 I currently live in Litchfield, CT.
