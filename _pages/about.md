@@ -28,9 +28,7 @@ take a look at [my resume][4].
 
 I currently live in Litchfield, CT.
 
-[^fnote2]: After graduating from St. Lawrence, I traveled out west in attempts
-to become a professional rock climber, spending most of my time in Squamish, BC
-and Bishop, CA.
+[^fnote2]: After graduating from St. Lawrence, I traveled out west in attempts to become a professional rock climber, spending most of my time in Squamish, BC and Bishop, CA.
   
 [1]: http://www.cobblehillpartners.com/home
 
