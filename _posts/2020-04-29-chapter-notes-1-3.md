@@ -1,5 +1,6 @@
 ---
 title: "Chapter Notes 1-3"
+subtitle: "Statistical Rethinking"
 category: posts
 date: 2020-04-29
 exerpt: "Chapter notes"
