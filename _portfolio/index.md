@@ -49,6 +49,6 @@ about technical details I've glossed over, feel free to [contact me][2].
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /assets/docs/resume.pdf
+[1]: /assets/docs/Resume_2020.pdf
 
-[2]: mailto:peter@pwills.com
+[2]: mailto:mitchellaaronjoseph@gmail.com
