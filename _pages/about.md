@@ -1,8 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
+  overlay_image: /assets/images/Rock_hartford_res.jpg
 permalink: /about/
 ---
 
