@@ -8,7 +8,7 @@ permalink: /about/
 
 # About Me
 
-<img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/IMG_1391.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
   
 I help organizations understand and leverage their quantitative
