@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/Rock_hartford_res.jpg
+  overlay_image: /assets/images/Acorns.jpg
 permalink: /about/
 ---
 
