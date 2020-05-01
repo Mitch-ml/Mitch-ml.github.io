@@ -36,4 +36,4 @@ I currently live in Litchfield, CT.
 
 [3]: /assets/docs/thesis.pdf
 
-[4]: /assets/docs/resume.pdf
+[4]: /assets/docs/Resume_2020.pdf
