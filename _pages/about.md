@@ -16,37 +16,26 @@ information. Call it what you will: data science, machine learning, or
 statistics; the modern technological world lies at the intersection of
 mathematics and computing, and that's where I like to play.
 
-I've worked with [Stage 1 start-ups][5] and [publicly traded corporations][6],
+I've worked with [Stage 1 start-ups][1] and [Venture capital funds][2],
 building models, establishing codebases, and providing mathematical expertise to
-developers. My mother tongue is Python, but I also speak Scala and Java. I have
-experience working with Apache Spark, scikit-learn, Tensorflow, pandas, and many
-other popular data analysis and machine learning libraries.
+developers. I mainly use R, but have experience in Python and SQL.
 
-I have a bachelors degree in Physics from Reed College, where I did
-[my thesis][2] on measurement of quantum entanglement in optical systems. After
-spending some time pursuing other interests,[^fnote2] I began working on my
-Ph.D. in Applied Mathematics at University of Colorado. My dissertation covers a
-range of topics in statistics, data analytics, and understanding noisy
-systems. For more details on all that, check out [my portfolio](/portfolio/), or
+I have a bachelors degree in Mathematics from St. Lawrence University, where I did
+[my thesis][3] on the Erdos Faber Lovasz conjecture. After
+spending some time pursuing other interests,[^fnote2] I began working at a young
+startup where I got introduced to a range of topics in statistics and data analytics. Though, my primary focused on using survival analysis to help predict customer churn. For more details, check out [my portfolio](/portfolio/), or
 take a look at [my resume][4]. 
 
-I currently live in San Francisco, where I work as a data scientist with the
-inventory optimization team at [Stitch Fix][7].
+I currently live in Litchfield, CT.
 
-[^fnote2]: After graduating from Reed, I spent some time living at
-	[Great Vow Zen Monastery][3], where we followed a daily schedule of work and
-	meditation.
+[^fnote2]: After graduating from St. Lawrence, I traveled out west in attempts
+to become a professional rock climber, spending most of my time in Squamish, BC
+and Bishop, CA.
   
-[1]: mailto: peter@pwills.com
+[1]: http://www.cobblehillpartners.com/home
 
-[2]: /assets/docs/thesis.pdf
+[2]: https://www.closedlooppartners.com/funds/closed-loop-venture-fund/
 
-[3]: https://www.zendust.org/monastery
+[3]: /assets/docs/thesis.pdf
 
 [4]: /assets/docs/resume.pdf
-
-[5]: https://www.entelligent.com
-
-[6]: https://www.thetradedesk.com
-
-[7]: https://multithreaded.stitchfix.com/algorithms/
