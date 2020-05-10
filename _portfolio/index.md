@@ -17,13 +17,13 @@ feature_row:
   - image_path: /assets/images/miles.jpg
     alt: "learning"
     title: "Statistical Learning"
-[//]: #    (alt: "Music")
-[//]: #    (title: "Algorithmic Musical Genre Classification")
     excerpt: "An introduction to statistical learning methods."
     url: "/portfolio/learning/"
-[//]: #    (url: "/portfolio/genre_cls/")
     btn_label: "Read More"
     btn_class: "btn--primary"	
+[//]: #    (alt: "Music")
+[//]: #    (title: "Algorithmic Musical Genre Classification")
+[//]: #    (url: "/portfolio/genre_cls/")
 [//]: #  (- image_path: /assets/images/social_network.jpg)
 [//]: #    (alt: "Social Network")
 [//]: #    (title: "Anomaly Detection in Social Networks")
