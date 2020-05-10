@@ -4,6 +4,7 @@ subtitle: "Statistical Rethinking"
 category: posts
 date: 2020-04-29
 exerpt: "Chapter notes"
+permalink: /portfolio/rethinking/
 comments: "true"
 ---
 
