@@ -50,6 +50,14 @@ comments:
 
 
 # pagination for blog page
+paginate:
+  collection: posts
+  per_page: 10
+  limit: 5
+  permalink: /portfolio/rethinking/page:num/
+  title_suffix: " - page :num"
+  reversed: false
+
 paginate: 10 # number of posts to show
 paginate_path: /page:num/
 
